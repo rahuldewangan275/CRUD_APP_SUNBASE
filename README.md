@@ -17,7 +17,7 @@ Sunbase Assignment is a powerful tool that simplifies the interaction with API e
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/rahuldewangan275/CRUD_APP_SUNBASE
    cd Sunbase_Assignment
 
 ## Usage
